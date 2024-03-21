@@ -1,0 +1,33 @@
+.container {
+    width: 89%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #9333ea;
+    box-shadow: 0 0 1500px #a855f7;
+}
+
+.content {
+    padding: 100px;
+    background-color: #e5ceeb;
+    border-radius: 10px;
+    background-color: #370657;
+}
+
+.gambar {
+    width: 250px;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #f9f8fa;
+}
+
+p {
+    color: #fdfdfd;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 30px;
+    border: 1px white solid;
+}

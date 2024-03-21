@@ -1,0 +1,44 @@
+section {
+    padding: 50px 0;
+    text-align: center;
+}
+
+section h2 {
+    margin-bottom: 20px;
+}
+
+section p {
+    color: #666;
+}
+
+#projects {
+    background-color: #f4f4f4;
+}
+
+.project {
+    display: inline-block;
+    width: 45%;
+    margin: 35px;
+    padding: 100px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 1000px #723180;
+}
+
+.project img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #723180;
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+    font-size: 10px;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 88px;
+}
